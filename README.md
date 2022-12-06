@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vlad-velciov
 - 👀 I’m interested in backend development - ruby/ java/ nodejs
-- 🌱 I’m currently learning Apache Vert.x/ Ruby
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: velciov.vlad@gmail.com
 
