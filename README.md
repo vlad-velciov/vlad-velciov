@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlad-velciov
-- 👀 I’m interested in backend development - ruby/ java/ nodejs
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in backend development - ruby/ nodejs/ go
+- 💞️ I’m looking to collaborate remotely or to relocate to Vancouver, Canada
 - 📫 How to reach me: velciov.vlad@gmail.com
 
 <!---
